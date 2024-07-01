@@ -5,7 +5,7 @@
 </p>
 
 
-![Status - Portifolio](http://img.shields.io/static/v1?label=STATUS&message=SERVER-ONLINE&color=green&style=for-the-badge)
+![Status - Portfolio Server](http://img.shields.io/static/v1?label=STATUS&message=SERVER-ONLINE&color=green&style=for-the-badge)
 
 ### Description about the repository: 
 
