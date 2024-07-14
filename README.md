@@ -7,7 +7,8 @@
 
 ![Status - Portfolio Server](http://img.shields.io/static/v1?label=STATUS&message=SERVER-ONLINE&color=green&style=for-the-badge)
 
-### Description about the repository: 
+### Descrição sobre o repositório: 
 
-This repository is dedicated to hosting my personal portfolio. Here, you will find some information about me, my experiences and latest news. This portfolio is a window to highlight my skills, achievements and passions in the field. Feel free to give feedback or contact me for collaboration opportunities!
+Este repositório é dedicado a hospedar meu portfólio pessoal. Aqui você encontrará algumas informações sobre mim, minhas experiências e últimas novidades. Este portfólio é uma janela para destacar minhas habilidades, conquistas e paixões na área. Sinta-se à vontade para dar feedback ou entrar em contato comigo para oportunidades de colaboração!
+
 <hr>
