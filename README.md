@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://gabrielsoaresceravolo.github.io"> 
-    <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo.github.io/assets/132103393/563d6803-fdde-4c76-978e-7443963a123c" alt="Repository Cover"> 
-  </a>
-</p>
+<div align="center">
+    <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo.github.io/assets/132103393/563d6803-fdde-4c76-978e-7443963a123c" alt="Capa do Repositorio"> 
+</div>
 
-
-![Status - Portfolio Server](http://img.shields.io/static/v1?label=STATUS&message=SERVER-ONLINE&color=green&style=for-the-badge)
+![Status](http://img.shields.io/static/v1?label=STATUS&message=SERVER-ONLINE&color=green&style=for-the-badge)
 
 ### Descrição sobre o repositório: 
 
